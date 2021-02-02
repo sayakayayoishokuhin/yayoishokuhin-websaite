@@ -1,0 +1,15 @@
+.logo-custom {
+    color: white;
+    white-space: nowrap;
+    font-size: 35px;
+    padding-top:10px;
+    font-weight: bold;
+}
+
+.food-menu-grid img {
+    height: 200px;
+}
+
+.custom-headline {
+    font-size: 50px;
+}
